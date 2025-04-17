@@ -1,10 +1,7 @@
 ## How to run on Docker
 
 1. Dowload this repository as a zip file and extract the zip file OR clone the repository
-2. Change working directory to the unzipped directory
-```
-cd receipt-processor-challenge/
-```
+2. Open the file using preferred IDE then change working directory to the unzipped directory if not already there
 3. Build the container image 
 ```
 docker build -t receipt-processor-challenge .
